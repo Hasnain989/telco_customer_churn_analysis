@@ -15,6 +15,10 @@ The objective is to:
 - Develop an interactive Power BI dashboard to communicate findings.
 - Translate analytical results into potential business recommendations.
 
+## Dashboard Preview
+
+![Customer Churn Dashboard](dashboard/dashboard_screensho.png)
+
 ## Tools & Technologies
 
 | Tool | Purpose |
